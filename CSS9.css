@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.conteneur9{
+	display: flex;
+	justify-content: center;
+	border-top: #E0E0E0 1px solid;
+	border-width: 1px 1.5em;
+	border-bottom: #E0E0E0 1px solid;
+}
+
+.banner3{
+	
+}
+
+.subnow{
+	text-align: center;
+}
+
+.textban3{
+	text-align: center;
+}
+
+.blocktextform{
+	width: 30%;
+	padding-top: 40px;
+}
+
+.blockformulaire{
+	display: flex;
+	justify-content: center;
+
+}
+
+.formulaire{
+	border-top: 0.7px solid #E0E0E0;
+}
+
+.bouton{
+	z-index: 2;
+}
+
+.banner31{
+	z-index: 1;
+}

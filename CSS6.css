@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.conteneur6{
+	display: flex;
+	justify-content: space-around;
+	margin: 0 auto;
+	width: 100px;
+	padding-top: 70px;
+	z-index: 1;
+}
+
+.banner1{
+	z-index: 2;
+	padding-right: 10px;
+}
+
+.banner2{
+	padding-right: 10px;
+}
+
+.textban1{
+	position: absolute;
+	z-index: 3;	
+	top: 1590px;
+	left: 515px;
+}
+
+.textban2{
+	position: absolute;
+	z-index: 3;
+	top: 1590px;
+	right: 515px;
+}
+
+.summersale{
+	margin-bottom: -13px;
+}
+
+.newcollection{
+	margin-bottom: -13px;
+}
+
+.shopnow{
+	padding-top: 20px;
+	text-decoration: underline ; 
+}

@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+	font-family: 'poppinsblack';
+	src: url("Fonts/poppins/Poppins-Black.otf");
+}
+
+h1{
+	font-family: "poppinsblack";
+	padding-top: 100px;
+	letter-spacing: -1px;
+}
+
+p{
+	font-family: "poppinslight";
+	font-size: 13px;
+}
+
+.shopnow{
+	padding-bottom: 150px;
+}
+
+.conteneur2{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	text-align: left ;
+	background-color: #BDBDBD;
+	z-index: 2;
+}
+
+.conteneur2gauche{
+	padding-right: 270px;
+}
+
+.image1{
+	position: absolute;
+	z-index: 3;
+	right: 30px;
+	top: 0px;
+}

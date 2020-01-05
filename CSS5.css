@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.conteneur5{
+	
+	display: flex;
+	justify-content: space-around;
+	margin: 0 auto;
+	width: 100px;
+}
+
+.img4{
+	padding-right: 60px;
+}
+
+.img6{
+	padding-left: 60px;
+}
+

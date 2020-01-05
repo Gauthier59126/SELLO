@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+	font-family: 'poppinsregular';
+	src: url("Fonts/poppins/Poppins-Regular.otf")
+}
+
+.conteneur4{
+	margin: 0 auto;
+	width: 100px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.img1{
+	padding-right: 60px;
+}
+
+.img3{
+	padding-left: 60px;
+}
+
+h3 {
+	font-size: 15px;
+	font-family: "poppinsregular";
+	color: #222222;
+	margin-bottom: -10px;
+	margin-top: auto;
+	letter-spacing: -0.8px;
+}
+
+h4{
+	font-size: 11px;
+	font-family: "poppinslight";
+	color: #818181;
+	letter-spacing: -0.8px;
+}

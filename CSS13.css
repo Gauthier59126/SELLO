@@ -1,0 +1,89 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.conteneur13{
+	background-color: #E9E9E9;
+	display: flex;
+	justify-content: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.contact2{
+	padding-right: 40px;
+	padding-left: 40px;
+}
+
+.payment{
+	margin-top: -18px;
+}
+
+.contactetlogo{
+	margin-top: 7px;
+}
+
+.links{
+	padding-right: 40px;
+	padding-left: 40px;
+}
+
+.logosello{
+	padding-left: 25px;
+}
+
+.blockadresse{
+	display: flex;
+	justify-content: flex-start;
+}
+
+.logoadresse{
+	padding-top: 15px;
+}
+
+.adresse{
+	padding-left: 8px;
+}
+
+.blockmail{
+	display: flex;
+	justify-content: flex-start;
+	margin-top: -20px;
+}
+
+.logomail{
+	padding-top: 16px;
+}
+
+.mail{
+	padding-left: 8px;
+}
+
+
+.blocktel{
+	display: flex;
+	justify-content: flex-start;
+	margin-top: -20px;
+}
+
+.logotel{
+	padding-top: 15px;
+}
+
+.tel{
+	padding-left: 8px;
+}
+
+.blocklogoreseaux{
+	display: flex;
+	justify-content: space-between;
+}
+
+.titre{
+	font-size: 20px;
+}
+
+.liste{
+	line-height: 200%;
+}
+
+

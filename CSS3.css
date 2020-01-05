@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.conteneur3{
+	margin: 0 auto;
+	width: 100px;
+	display: flex;
+	justify-content: space-around;
+	width: 90%;
+	padding-top: 70px;
+	padding-bottom: 25px;
+}
+
+.conteneur3gauche{
+	
+	display: flex;
+	justify-content: flex-start;
+	padding-left: 20px;
+}
+
+.conteneur3droit{
+	
+	display: flex;
+	justify-content: space-around;
+	padding-right: 20px;
+}
+
+.tshirt{
+	padding-right: 50px;
+	color: #222222;
+}
+
+.pants{
+	padding-right: 50px;
+	color: #BDBDBD;
+}
+
+.shoe{
+	padding-right: 50px;
+	color: #BDBDBD;
+}
+
+.jacket{
+	padding-right: 50px;
+	color: #BDBDBD;
+}
+
+.fashion{
+	padding-right: 50px;
+	color: #BDBDBD;
+}

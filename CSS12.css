@@ -1,0 +1,101 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.conteneur12{
+	display: flex;
+	justify-content: center;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.women{
+	padding-right: 40px;
+	padding-left: 40px;
+}
+.titrewomen{
+	font-size: 20px;
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+.liste1{
+	font-size: 15px;
+	text-align: center;
+	color: #737373;
+	line-height: 200%;
+}
+
+.titremen{
+	font-size: 20px;
+	text-align: center;
+	padding-bottom: 15px
+}
+
+.liste2{
+	font-size: 15px;
+	text-align: center;
+	color: #737373;
+	line-height: 200%;
+}
+
+.kids{
+	padding-right: 40px;
+	padding-left: 40px;
+}
+
+.titrekids{
+	font-size: 20px;
+	text-align: center;
+	padding-bottom: 15px
+}
+
+.liste3{
+	font-size: 15px;
+	text-align: center;
+	color: #737373;
+	line-height: 200%;
+}
+
+.titretoys{
+	font-size: 20px;
+	text-align: center;
+	padding-bottom: 15px
+}
+
+.liste4{
+	font-size: 15px;
+	text-align: center;
+	color: #737373;
+	line-height: 200%;
+}
+
+.furnitures{
+	padding-right: 40px;
+	padding-left: 40px;
+}
+
+.titrefurnitures{
+	font-size: 20px;
+	text-align: center;
+	padding-bottom: 15px
+}
+
+.liste5{
+	font-size: 15px;
+	text-align: center;
+	color: #737373;
+	line-height: 200%;
+}
+
+.titrejewelry{
+	font-size: 20px;
+	text-align: center;
+	padding-bottom: 15px
+}
+
+.liste6{
+	font-size: 15px;
+	text-align: center;
+	color: #737373;
+	line-height: 200%;
+}

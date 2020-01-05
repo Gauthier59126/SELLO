@@ -1,0 +1,67 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.conteneur8{
+	padding-top: 20px;
+	padding-bottom: 80px;
+	display: flex;
+	justify-content: space-around;
+	margin: 0 auto;
+	width: 100px;
+}
+
+.likecomment{
+	display: flex;
+	justify-content: space-around;
+	margin-top: -10px;
+	border-bottom: #E8E8E8 solid 0.8px;
+}
+
+.blocklike{
+	display: flex;
+	justify-content: flex-start;
+	margin-left: -13px;
+}
+
+.blockcomments{
+	display: flex;
+	justify-content: flex-start;
+	padding-right: 50px;
+}
+
+.blockadd{
+	display: flex;
+	justify-content: flex-end;
+}
+
+.like{
+	font-size: 8px;
+}
+
+.comments{
+	font-size: 8px;
+}
+
+.addcart{
+	font-size: 8px;
+}
+
+.likelogo{
+	padding-top: 8px
+}
+
+.commentslogo{
+	padding-top: 9px
+}
+
+.addlogo{
+	padding-top: 8px
+}
+
+.img10{
+	padding-right: 55px;
+}
+
+.img12{
+	padding-left: 55px;
+}

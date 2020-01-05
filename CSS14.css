@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.footer{
+	display: flex;
+	justify-content: space-around;
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
+
+.copyright{
+	padding-left: 150px;
+}
+
+.hpbc{
+	display: flex;
+	justify-content: flex-start;
+padding-right: 150px;
+	
+}
+
+.h{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.b{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+

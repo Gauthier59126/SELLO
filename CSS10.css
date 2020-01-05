@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.conteneur10{
+	display: flex;
+	justify-content: center;
+	margin-top: 70px;
+	padding-bottom: 20px;
+}
+
+.blockgallery1{
+	padding-right: 25px;
+}
+
+.blockgallery3{
+	padding-left: 25px;
+
+}
+
+.titregallery{
+	font-size: 14px;
+	padding-top: 20px;
+}
+
+.textgallery{
+	font-size: 11px;
+	padding-top: 15px;
+	color: #737373;
+}
+
+.readgallery{
+	text-decoration: underline;
+}

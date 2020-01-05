@@ -1,0 +1,54 @@
+.header {
+	width: 100%;
+	display: flex;
+	z-index: 1;
+	padding-bottom: 13px;
+}
+
+@font-face {
+	font-family: 'poppinslight';
+	src: url("Fonts/poppins/Poppins-Light.otf")
+}
+
+h2{
+	font-family: "poppinslight";
+	font-size: 12px;
+	letter-spacing: -1px;
+}
+
+
+
+.conteneur1gauche{
+	width: 45%;
+	display: flex;
+	justify-content: space-around;
+	padding-top: 3px;
+}
+
+.conteneur1droit{
+	width: 55%;
+	display: flex;
+	justify-content: flex-start;
+	padding-top: 7px;
+	margin-left: -80px;
+}
+
+.home{
+	width: 8%;
+	color:#222222;
+}
+
+.product{
+	width: 10%;
+	color: #DBDBDB;
+}
+
+.blog{
+	width: 5%;
+	color: #DBDBDB;
+}
+
+.contact{
+	width: 5%;
+	color: #DBDBDB;
+}
